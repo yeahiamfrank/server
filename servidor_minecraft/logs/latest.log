@@ -145,3 +145,38 @@
 [23:19:21] [Async Chat Thread - #12/INFO]: [Not Secure] <.IllBRYANELPRO> seh
 [23:19:31] [Async Chat Thread - #12/INFO]: [Not Secure] <.IllBRYANELPRO> ahora dame diamantes y full netherite
 [23:19:34] [Async Chat Thread - #12/INFO]: [Not Secure] <gato24teiko> XD
+[23:19:43] [Async Chat Thread - #12/INFO]: [Not Secure] <gato24teiko> ganale al zombie
+[23:19:47] [Server thread/INFO]: .IllBRYANELPRO was shot by Skeleton
+[23:19:48] [Server thread/INFO]: gato24teiko has made the advancement [Acquire Hardware]
+[23:19:59] [Server thread/INFO]: .IllBRYANELPRO was slain by Zombie
+[23:20:03] [Server thread/INFO]: .IllBRYANELPRO has made the advancement [Monster Hunter]
+[23:20:09] [Server thread/INFO]: .IllBRYANELPRO was slain by Zombie
+[23:20:13] [Server thread/INFO]: gato24teiko has made the advancement [Monster Hunter]
+[23:20:23] [Async Chat Thread - #12/INFO]: [Not Secure] <gato24teiko> XD
+[23:20:28] [Server thread/INFO]: .IllBRYANELPRO was shot by Skeleton
+[23:20:29] [Server thread/INFO]: gato24teiko issued server command: /difficulty peaceful
+[23:20:29] [Server thread/INFO]: [gato24teiko: The difficulty has been set to Peaceful]
+[23:21:23] [Async Chat Thread - #13/INFO]: [Not Secure] <.IllBRYANELPRO> gato tu juegas en java, no? lo tienes gratis o te lo compraste
+[23:21:35] [Async Chat Thread - #14/INFO]: [Not Secure] <gato24teiko> me lo compre
+[23:23:37] [Server thread/INFO]: gato24teiko issued server command: /time set day
+[23:23:37] [Server thread/INFO]: [gato24teiko: Set the time to 1000]
+[23:23:43] [Server thread/INFO]: gato24teiko issued server command: /difficulty normal
+[23:23:43] [Server thread/INFO]: [gato24teiko: The difficulty has been set to Normal]
+[23:24:12] [Async Chat Thread - #15/INFO]: [Not Secure] <gato24teiko> pues ya hay spawn
+[23:24:25] [Async Chat Thread - #15/INFO]: [Not Secure] <.IllBRYANELPRO> unete a vc pa bajar pepa
+[23:24:53] [Async Chat Thread - #16/INFO]: [Not Secure] <gato24teiko> bue
+[23:25:02] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .IllBRYANELPRO disconnected
+[23:25:02] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] IllBRYANELPRO has disconnected from the Java server because of Bedrock client disconnected
+[23:25:02] [Server thread/INFO]: .IllBRYANELPRO lost connection: Disconnected
+[23:25:02] [Server thread/INFO]: .IllBRYANELPRO left the game
+[23:25:10] [Async Chat Thread - #16/INFO]: [Not Secure] <gato24teiko> xd
+[23:26:53] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username IllBRYANELPRO
+[23:26:53] [localSession-7-1/INFO]: [Geyser-Spigot] IllBRYANELPRO (logged in as: IllBRYANELPRO) has connected to the Java server
+[23:26:53] [Server thread/INFO]: [floodgate] Floodgate player logged in as .IllBRYANELPRO joined (UUID: 00000000-0000-0000-0009-01f57585dd6b)
+[23:26:53] [Server thread/INFO]: .IllBRYANELPRO joined the game
+[23:26:53] [Server thread/INFO]: .IllBRYANELPRO[/127.0.0.1:0] logged in with entity id 5034 at ([world]-12.235352, 63.0, -147.23459)
+[23:26:59] [Server thread/INFO]: gato24teiko issued server command: /setworldspawn
+[23:26:59] [Server thread/INFO]: [gato24teiko: Set the world spawn point to -13, 65, -154 [0.0]]
+[23:29:42] [Server thread/INFO]: .IllBRYANELPRO has reached the goal [Beaconator]
+[23:29:42] [Server thread/INFO]: .IllBRYANELPRO has made the advancement [Bring Home the Beacon]
+[23:29:42] [Server thread/INFO]: gato24teiko has reached the goal [Beaconator]
