@@ -1,317 +1,75 @@
-[21:58:41] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[21:58:41] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[21:58:41] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:58:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[21:58:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[22:49:25] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[22:49:25] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[22:49:25] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:49:26] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[22:49:26] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - Geyser-Spigot (2.7.1-SNAPSHOT), ViaBackwards (5.3.2), ViaVersion (5.3.2), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[21:58:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:58:51] [ServerMain/INFO]: Loaded 1290 recipes
-[21:58:52] [ServerMain/INFO]: Loaded 1399 advancements
-[21:58:52] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:58:52] [Server thread/INFO]: Loading properties
-[21:58:52] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[21:58:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:58:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:58:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:58:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[21:58:55] [Server thread/INFO]: Default game type: SURVIVAL
-[21:58:55] [Server thread/INFO]: Generating keypair
-[21:58:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:58:55] [Server thread/INFO]: Using epoll channel type
-[21:58:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:58:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:58:57] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[21:59:00] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[21:59:00] [Server thread/INFO]: [floodgate] Took 3,324ms to boot Floodgate
-[21:59:00] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
-[21:59:00] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
-[21:59:02] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[21:59:03] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[21:59:04] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[21:59:04] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[21:59:07] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.1-SNAPSHOT
-[21:59:09] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[21:59:09] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[21:59:09] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
-[21:59:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:59:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:59:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:59:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:59:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:59:09] [Server thread/INFO]: Preparing level "world"
-[21:59:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:59:12] [Server thread/INFO]: Time elapsed: 2205 ms
-[21:59:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:59:12] [Server thread/INFO]: Time elapsed: 407 ms
-[21:59:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:59:12] [Server thread/INFO]: Time elapsed: 318 ms
-[21:59:12] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[21:59:14] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
-[21:59:14] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[21:59:14] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.1-SNAPSHOT
-[21:59:15] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
-[21:59:16] [Server thread/INFO]: [spark] Starting background profiler...
-[21:59:16] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:59:16] [Server thread/INFO]: [Geyser-Spigot] 
-[21:59:16] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.1-b833 (git-master-d0be6d9)
-[21:59:16] [Server thread/INFO]: [Geyser-Spigot] 
-[21:59:16] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:59:30] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 61218
-[21:59:30] [Server thread/INFO]: [Geyser-Spigot] Done (13.996s)! Run /geyser help for help!
-[21:59:31] [Server thread/INFO]: Done preparing level "world" (21.928s)
-[21:59:31] [Server thread/INFO]: Running delayed init tasks
-[21:59:31] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[21:59:31] [Server thread/INFO]: Done (50.968s)! For help, type "help"
-[21:59:31] [Server thread/INFO]: Timings Reset
-[22:01:21] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username YINYYANGOSITO
-[22:01:21] [localSession-7-2/INFO]: [Geyser-Spigot] YINYYANGOSITO (logged in as: YINYYANGOSITO) has connected to the Java server
-[22:01:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .YINYYANGOSITO joined (UUID: 00000000-0000-0000-0009-01fda3d84ae9)
-[22:01:23] [Server thread/INFO]: .YINYYANGOSITO joined the game
-[22:01:23] [Server thread/INFO]: .YINYYANGOSITO[/127.0.0.1:0] logged in with entity id 20 at ([world]-9.5, 72.0, 9.5)
-[22:11:17] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] YINYYANGOSITO has disconnected from the Java server because of Bedrock client disconnected
-[22:11:17] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .YINYYANGOSITO disconnected
-[22:11:17] [Server thread/INFO]: .YINYYANGOSITO lost connection: Disconnected
-[22:11:17] [Server thread/INFO]: .YINYYANGOSITO left the game
-[22:24:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
-XD<--[HERE]
-[22:24:49] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username YINYYANGOSITO
-[22:24:49] [localSession-7-3/INFO]: [Geyser-Spigot] YINYYANGOSITO (logged in as: YINYYANGOSITO) has connected to the Java server
-[22:24:50] [Server thread/INFO]: [floodgate] Floodgate player logged in as .YINYYANGOSITO joined (UUID: 00000000-0000-0000-0009-01fda3d84ae9)
-[22:24:50] [Server thread/INFO]: .YINYYANGOSITO joined the game
-[22:24:50] [Server thread/INFO]: .YINYYANGOSITO[/127.0.0.1:0] logged in with entity id 1412 at ([world]-9.5, 72.0, 9.5)
-[22:26:12] [Server thread/INFO]: Made YINYANGOSITO a server operator
-[22:28:01] [Server thread/INFO]: Made YINYYANGOSITO a server operator
-[22:28:42] [Server thread/INFO]: Made .YINYYANGOSITO a server operator
-[22:28:54] [Server thread/INFO]: .YINYYANGOSITO issued server command: /time set sunrise
-[22:29:03] [Server thread/INFO]: .YINYYANGOSITO issued server command: /time set day
-[22:29:03] [Server thread/INFO]: [.YINYYANGOSITO: Set the time to 1000]
-[22:29:33] [Server thread/INFO]: .YINYYANGOSITO issued server command: /GAMEMODE creative
-[22:30:47] [Server thread/INFO]: .YINYYANGOSITO issued server command: /gamemode survival
-[22:31:31] [Server thread/INFO]: Set .YINYYANGOSITO's game mode to Creative Mode
-[22:32:22] [Server thread/INFO]: --------- Help: Index ---------------------------
-[22:32:22] [Server thread/INFO]: Use /help [n] to get page n of help.
-[22:32:22] [Server thread/INFO]: Aliases: Lists command aliases
-[22:32:22] [Server thread/INFO]: Bukkit: All commands for Bukkit
-[22:32:22] [Server thread/INFO]: floodgate: All commands for floodgate
-[22:32:22] [Server thread/INFO]: Geyser-Spigot: All commands for Geyser-Spigot
-[22:32:22] [Server thread/INFO]: Minecraft: All commands for Minecraft
-[22:32:22] [Server thread/INFO]: ViaVersion: All commands for ViaVersion
-[22:32:22] [Server thread/INFO]: /advancement: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /attribute: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /ban: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /ban-ip: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /banlist: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /bossbar: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /callback: ClickEvent callback
-[22:32:22] [Server thread/INFO]: /clear: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /clone: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /damage: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /data: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /datapack: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /debug: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /deop: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /difficulty: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /effect: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /enchant: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /execute: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /experience: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /fill: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /fillbiome: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /floodgate: A set of Floodgate related actions in one command
-[22:32:22] [Server thread/INFO]: /forceload: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /function: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /fwhitelist: Easy way to whitelist Bedrock players
-[22:32:22] [Server thread/INFO]: /gamemode: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /gamerule: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /geyser: 
-[22:32:22] [Server thread/INFO]: /geyser-spigot:geyser: 
-[22:32:22] [Server thread/INFO]: /give: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /help: Shows the help menu
-[22:32:22] [Server thread/INFO]: /item: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /jfr: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /kick: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /kill: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /linkaccount: Link your Java account with your Bedrock account
-[22:32:22] [Server thread/INFO]: /list: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /locate: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /loot: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /me: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:advancement: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:attribute: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:ban: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:ban-ip: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:banlist: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:bossbar: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:clear: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:clone: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:damage: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:data: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:datapack: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:debug: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:defaultgamemode: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:deop: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:difficulty: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:effect: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:enchant: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:execute: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:experience: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:fill: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:fillbiome: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:forceload: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:function: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:gamemode: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:gamerule: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:give: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:item: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:jfr: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:kick: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:kill: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:list: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:locate: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:loot: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:me: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:msg: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:op: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:pardon: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:pardon-ip: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:particle: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:perf: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:place: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:playsound: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:random: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:recipe: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:return: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:ride: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:save-all: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:save-off: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:save-on: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:say: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:schedule: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:scoreboard: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:seed: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:setblock: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:setidletimeout: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:setworldspawn: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:spawnpoint: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:spectate: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:spreadplayers: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:stop: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:stopsound: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:summon: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:tag: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:team: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:teammsg: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:teleport: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:tell: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:tellraw: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:tick: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:time: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:title: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:tm: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:tp: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:transfer: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:trigger: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:w: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:weather: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:whitelist: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:worldborder: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /minecraft:xp: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /msg: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /mspt: View server tick times
-[22:32:22] [Server thread/INFO]: /op: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /paper: Paper related commands
-[22:32:22] [Server thread/INFO]: /paper:spark: 
-[22:32:22] [Server thread/INFO]: /pardon: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /particle: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /perf: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /place: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /playsound: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
-[22:32:22] [Server thread/INFO]: /random: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /recipe: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
-[22:32:22] [Server thread/INFO]: /restart: Restarts the server
-[22:32:22] [Server thread/INFO]: /return: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /ride: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /save-all: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /save-off: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /save-on: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /say: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /schedule: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /scoreboard: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /seed: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /setblock: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /spark: 
-[22:32:22] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /spectate: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /spigot: Spigot related commands
-[22:32:22] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /stop: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /stopsound: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /summon: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /tag: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /team: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /teammsg: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /teleport: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /tell: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /tellraw: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /tick: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /time: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
-[22:32:22] [Server thread/INFO]: /title: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /tm: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /tp: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
-[22:32:22] [Server thread/INFO]: /transfer: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /trigger: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /unlinkaccount: Unlink your Java account from your Bedrock account
-[22:32:22] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
-[22:32:22] [Server thread/INFO]: /viaversion: Shows ViaVersion Version and more.
-[22:32:22] [Server thread/INFO]: /w: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /weather: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /whitelist: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /worldborder: A Mojang provided command.
-[22:32:22] [Server thread/INFO]: /xp: A Mojang provided command.
-[22:33:39] [Server thread/INFO]: .YINYYANGOSITO issued server command: /difficulty hard
-[22:33:39] [Server thread/INFO]: [.YINYYANGOSITO: The difficulty has been set to Hard]
-[22:34:01] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .YINYYANGOSITO disconnected
-[22:34:01] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] YINYYANGOSITO has disconnected from the Java server because of Bedrock client disconnected
-[22:34:01] [Server thread/INFO]: .YINYYANGOSITO lost connection: Disconnected
-[22:34:01] [Server thread/INFO]: .YINYYANGOSITO left the game
-[22:34:09] [Server thread/INFO]: Stopping the server
-[22:34:09] [Server thread/INFO]: Stopping server
-[22:34:09] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
-[22:34:09] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
-[22:34:09] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[22:34:09] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[22:34:09] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
-[22:34:09] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[22:34:09] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[22:34:09] [Server thread/INFO]: Saving players
-[22:34:10] [Server thread/INFO]: Saving worlds
-[22:34:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:34:10] [WebSocketConnectReadThread-82/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[22:34:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[22:34:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[22:34:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[22:34:11] [Server thread/INFO]: [ChunkHolderManager] Saved 351 block chunks, 160 entity chunks, 0 poi chunks in world 'world' in 0.92s
-[22:34:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:34:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[22:34:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[22:34:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[22:34:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[22:34:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:34:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[22:34:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[22:34:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[22:34:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[22:34:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:34:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:34:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:34:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:49:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:49:35] [ServerMain/INFO]: Loaded 1290 recipes
+[22:49:35] [ServerMain/INFO]: Loaded 1399 advancements
+[22:49:36] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:49:36] [Server thread/INFO]: Loading properties
+[22:49:36] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[22:49:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:49:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:49:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:49:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[22:49:38] [Server thread/INFO]: Default game type: SURVIVAL
+[22:49:38] [Server thread/INFO]: Generating keypair
+[22:49:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:49:38] [Server thread/INFO]: Using epoll channel type
+[22:49:38] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:49:38] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:49:40] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[22:49:43] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[22:49:43] [Server thread/INFO]: [floodgate] Took 3,089ms to boot Floodgate
+[22:49:43] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[22:49:43] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[22:49:45] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:49:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:49:48] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:49:48] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:49:50] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.1-SNAPSHOT
+[22:49:52] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[22:49:52] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[22:49:52] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[22:49:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:49:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:49:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:49:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:49:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:49:52] [Server thread/INFO]: Preparing level "world"
+[22:49:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:49:55] [Server thread/INFO]: Time elapsed: 2181 ms
+[22:49:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:49:55] [Server thread/INFO]: Time elapsed: 412 ms
+[22:49:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:49:55] [Server thread/INFO]: Time elapsed: 258 ms
+[22:49:55] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[22:49:57] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[22:49:57] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[22:49:57] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.1-SNAPSHOT
+[22:49:58] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[22:49:58] [Server thread/INFO]: [spark] Starting background profiler...
+[22:49:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:49:59] [Server thread/INFO]: [Geyser-Spigot] 
+[22:49:59] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.1-b833 (git-master-d0be6d9)
+[22:49:59] [Server thread/INFO]: [Geyser-Spigot] 
+[22:49:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:50:11] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 61218
+[22:50:12] [Server thread/INFO]: [Geyser-Spigot] Done (12.485s)! Run /geyser help for help!
+[22:50:12] [Server thread/INFO]: Done preparing level "world" (20.073s)
+[22:50:12] [Server thread/INFO]: Running delayed init tasks
+[22:50:12] [Server thread/INFO]: Done (48.077s)! For help, type "help"
+[22:50:12] [Server thread/INFO]: Timings Reset
+[22:50:12] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[22:51:14] [Server thread/INFO]: [Not Secure] [Server] ayuda
+[22:51:51] [User Authenticator #0/INFO]: UUID of player gato24teiko is 0b50513a-b971-3ac6-9cb4-f7d559695434
+[22:51:54] [Server thread/INFO]: gato24teiko joined the game
+[22:51:54] [Server thread/INFO]: gato24teiko[/127.58.231.57:53095] logged in with entity id 20 at ([world]0.5, 69.0, -5.5)
+[22:52:24] [Server thread/INFO]: Made gato24teiko a server operator
+[22:52:33] [Server thread/INFO]: gato24teiko issued server command: /gamemode creative
+[22:52:33] [Server thread/INFO]: [gato24teiko: Set own game mode to Creative Mode]
+[22:58:11] [Async Chat Thread - #2/INFO]: [Not Secure] <gato24teiko> a
+[22:58:47] [Server thread/INFO]: gato24teiko issued server command: /setblock ~ ~ ~ minecraft:glass
+[22:58:47] [Server thread/INFO]: [gato24teiko: Changed the block at -12, 63, -71]
