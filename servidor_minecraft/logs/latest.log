@@ -123,3 +123,25 @@
 [23:08:59] [Server thread/INFO]: .Meimeloii lost connection: Disconnected
 [23:08:59] [Server thread/INFO]: .Meimeloii left the game
 [23:09:26] [Server thread/INFO]: gato24teiko has made the advancement [Bring Home the Beacon]
+[23:11:30] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Meimeloii
+[23:11:30] [localSession-7-3/INFO]: [Geyser-Spigot] Meimeloii (logged in as: Meimeloii) has connected to the Java server
+[23:11:30] [User Authenticator #1/INFO]: UUID of player Meimeloii is d905d782-4f7e-3531-80ee-72b8377fe3ed
+[23:11:30] [Server thread/INFO]: Meimeloii joined the game
+[23:11:30] [Server thread/INFO]: Meimeloii[/127.0.0.1:0] logged in with entity id 3087 at ([world]3.5, 75.0, 5.5)
+[23:13:27] [Server thread/WARN]: Meimeloii moved too quickly! -5.955156000000002,0.03538999999999959,-8.277374000000009
+[23:15:18] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Meimeloii has disconnected from the Java server because of Bedrock client disconnected
+[23:15:18] [Server thread/INFO]: Meimeloii lost connection: Disconnected
+[23:15:18] [Server thread/INFO]: Meimeloii left the game
+[23:16:52] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username IllBRYANELPRO
+[23:16:52] [localSession-7-4/INFO]: [Geyser-Spigot] IllBRYANELPRO (logged in as: IllBRYANELPRO) has connected to the Java server
+[23:16:53] [Server thread/INFO]: [floodgate] Floodgate player logged in as .IllBRYANELPRO joined (UUID: 00000000-0000-0000-0009-01f57585dd6b)
+[23:16:53] [Server thread/INFO]: .IllBRYANELPRO joined the game
+[23:16:53] [Server thread/INFO]: .IllBRYANELPRO[/127.0.0.1:0] logged in with entity id 3809 at ([world]4.5, 79.0, 0.5)
+[23:17:26] [Server thread/INFO]: gato24teiko issued server command: /spawnpoint @a
+[23:17:26] [Server thread/INFO]: [gato24teiko: Set spawn point to -13, 65, -154 [0.0] in minecraft:overworld for 2 players]
+[23:17:49] [Async Chat Thread - #9/INFO]: [Not Secure] <gato24teiko> y que tal
+[23:18:10] [Async Chat Thread - #9/INFO]: [Not Secure] <.IllBRYANELPRO> quiero jugar en pc tmr
+[23:19:16] [Async Chat Thread - #11/INFO]: [Not Secure] <gato24teiko> pues me quedo bien
+[23:19:21] [Async Chat Thread - #12/INFO]: [Not Secure] <.IllBRYANELPRO> seh
+[23:19:31] [Async Chat Thread - #12/INFO]: [Not Secure] <.IllBRYANELPRO> ahora dame diamantes y full netherite
+[23:19:34] [Async Chat Thread - #12/INFO]: [Not Secure] <gato24teiko> XD
