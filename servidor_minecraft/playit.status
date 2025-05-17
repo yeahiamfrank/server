@@ -1,305 +1,4080 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1747518678408 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1747519125735 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518681553 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519128815 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518684676 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519131889 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518687776 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519134982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518690910 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519138059 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518694384 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519141139 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518697479 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519144231 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518700569 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519147411 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518703860 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519150513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518707058 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519153608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518710155 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519156686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518713335 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519159899 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518716416 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519163011 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518719506 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519166093 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518722587 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519169261 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518725920 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519172348 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518729173 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519175435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518732249 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519178527 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518735699 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519181683 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518738961 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519184764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518742229 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519187866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518745448 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519190942 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518748541 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519194030 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518751623 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519197173 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518754794 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519200257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518757936 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519203330 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518761143 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519206467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518764349 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519209750 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518767515 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519212826 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518770626 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519215988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518774015 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519219205 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518777120 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519222330 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518780206 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519225425 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518783315 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519228503 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518786422 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519231587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518789506 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519234675 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518792612 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519237754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518795699 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519240857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518798862 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519243956 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518801969 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519247040 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518805285 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519250153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518808372 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519253285 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518811450 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519256375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518814533 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519259466 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518817696 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519262557 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518820790 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519265654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518823871 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519268729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518826961 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519271807 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518830048 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519274892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518833192 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519277976 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518836328 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519281163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518839406 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519284260 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518842497 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519287520 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518845634 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519290692 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518848741 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519293968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518851827 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519297045 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518854906 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519300138 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518857994 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519303289 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518861067 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519306373 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518864149 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519309502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1747518867233 tunnel running, 1 tunnels registered
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519312602 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519315685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519318807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519321952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519325191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519328267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519331352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519334456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519337532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519340642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519343764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519347144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519350231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519353326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519356519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519359602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519362779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519365877 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519368975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519372122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519375261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519378351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519381522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519384629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519387796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519390898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519393980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519397060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519400131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519403200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519406274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519409363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519412582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519415706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519418941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519422362 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519425545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519428744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519431816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519434898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519438083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519441160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519444235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519447315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519450406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519453495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519456583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519459920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519463008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519466088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519469160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519472239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519475723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519478826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519481915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519484998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519488142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519491318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519494472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519497564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519500679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519503764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519506923 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519510060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519513309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519516386 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519519482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519522561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519525968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519529054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519532142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519535285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519538357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519541464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519544538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519547621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519550699 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519553812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519556886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519559966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519563334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519566413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519569533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519572617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519575702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519579142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519582231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519585313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519588417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519591502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519594616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519597703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519600792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519603989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519607063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519610229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519613307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519616613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519619760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519622858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519625985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519629104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519632217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519635296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519638476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519641703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519644809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519648287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519651377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519654505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519657591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519660740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519663845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519666949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519670039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519673114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519676189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519679262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519682354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519685436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519688530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519691635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519694773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519697874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519700954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519704061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519707137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519710218 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519713312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519716413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519719598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519722674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519725776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519728915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519731993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519735079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519738156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519741290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519744382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519747456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519750549 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519753642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519756730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519759850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519763002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519766085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519769167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519772249 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519775355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519778626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519781709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519784781 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519787859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519790948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519794028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519797116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519800194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519803282 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519806369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519809452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519812530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519815745 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519818832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519822129 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519825221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519828325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519831609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519834687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519837775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519840881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519843961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519847041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519850138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519853226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519856304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519859680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519863045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519866144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519869298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519872376 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519875462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519878578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519881844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519885155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519888235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519891328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519894429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519897520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519900802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519904004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519907214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519910603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519913835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519916919 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519920028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519923358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519926617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519929689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519932783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519935860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519939113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519942408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519945571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519948657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519951873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519954956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519958245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519961561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519964731 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519968082 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519971162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519974557 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519977634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519980961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519984203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519987380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519990679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519993779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747519997042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520000120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520003331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520006704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520010005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520013100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520016182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520019331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520022480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520025554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520028739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520032063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520035239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520038380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520041874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520044993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520049155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520052290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520055388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520058474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520061566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520064761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520067872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520070964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520074184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520077267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520080611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520083739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520086831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520089988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520093346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520096448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520099569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520102677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520105822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520108897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520112012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520115113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520118196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520121505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520124582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520127667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520130813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520133899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520136984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520140083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520143305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520146391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520149890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520153021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520156106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520159262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520162372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520165686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520168764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520171848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520174932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520178009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520181092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520184171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520187246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520190684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520194304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520197384 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520200471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520203545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520206622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520209710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520212821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520215916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520219001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520222170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520225329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520228423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520231505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520234596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520237675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520240755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520243835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520246931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520250009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520253152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520256795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520259884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520262973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520266051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520269125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520272239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520275324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520278452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520281539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520284621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520287740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520290825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520293902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520297027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520300110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520303183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520306267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520309354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520312445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520315525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520318637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520321768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520324988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520328059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520331151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520334275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520337366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520340456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520343646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520346765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520349975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520353076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520356167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520359253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520362334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520365522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520368760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520371842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520375130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520378216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520381306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520384464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520387676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520390763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520393844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520396943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520400014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520403109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520406211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520409300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520412429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520415533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520418609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520421816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520424909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520428173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520431269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520434350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520437435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520440509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520443845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520447160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520450243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520453358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520456435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520459519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520462628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520465722 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520468838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520471917 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520475210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520478308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520481414 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520484562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520487700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520490781 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520494138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520497257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520500349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520503434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520506523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520509601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520512698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520515919 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520519001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520522091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520525166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520528245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520531329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520534409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520537489 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520540576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520543651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520546736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520549816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520552896 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520556073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520559161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520562272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520565467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520568544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520571673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520574766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520577845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520580920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520584025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520587107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520590361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520593496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520596602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520599788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520603228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520606463 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520609542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520612626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520615713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520618817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520622069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520625171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520628251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520631379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520634470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520637622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520640738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520643811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520646900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520650004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520653090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520656175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520659252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520662339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520665420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520668499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520671578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520674690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520677762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520680852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520683962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520687075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520690161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520693238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520696401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520699530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520702610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520705730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520708821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520711913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520715014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520718096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520721183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520724348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520727444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520730532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520733615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520736699 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520739770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520742851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520746024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520749109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520752216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520755301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520758374 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520761521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520764651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520767743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520771031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520774114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520777202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520780313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520783551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520786627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520789704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520792790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520795879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520798957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520802046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520805281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520808401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520811527 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520814629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520817837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520820910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520824017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520827168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520830258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520833347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520836613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520839697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520842792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520846011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520849140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520852219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520855353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520858441 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520861517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520864623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520867718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520871043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520874391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520877473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520880557 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520883635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520886825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520889915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520892990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520896072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520899155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520902276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520905431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520908510 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520911582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520914708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520917800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520920879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520923975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520927048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520930138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520933239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520936360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520939442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520942592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520945684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520948773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520951905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520955008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520958109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520961556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520964649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520967778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520970866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520973951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520977065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520980143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520983249 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520986330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520989414 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520992641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520995731 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747520998812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521001886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521004958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521008043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521011125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521014214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521017381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521020466 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521023553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521026678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521029760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521032848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521035966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521039063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521042221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521045433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521048528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521051683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521054934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521058030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521061114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521064236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521067673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521070848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521073985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521077227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521080483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521083569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521086909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521090261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521093486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521096793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521100370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521103724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521107137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521110593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521113749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521117034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521120361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521123476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521126546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521129717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521133045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521136176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521139254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521142470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521145551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521148645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521151849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521154930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521158016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521161309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521164835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521168207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521171290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521174374 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521177729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521180859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521183966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521187228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521190529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521193769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521196864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521200020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521203102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521206196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521209276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521212370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521215448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521218576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521221656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521224735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521227845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521230942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521234072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521237226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521240320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521243401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521246514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521249588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521252691 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1747521255764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+every-digest.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+french-season.gl.at.ply.gg:61218 => 127.0.0.1:61218 (minecraft-bedrock)

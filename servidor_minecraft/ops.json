@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "00000000-0000-0000-0009-01fda3d84ae9",
+    "name": ".YINYYANGOSITO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fb7a1aa1-5861-3e52-aac3-cccb0b07f680",
+    "name": "YINYANGOSITO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "11696a0e-c6d0-33d2-b9f1-31d15869305f",
+    "name": "YINYYANGOSITO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
