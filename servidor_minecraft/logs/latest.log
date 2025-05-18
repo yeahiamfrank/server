@@ -1,395 +1,437 @@
-[00:00:00] [Async Chat Thread - #35/INFO]: [Not Secure] <gato24teiko> ya ta zona alrededor iluminada con bloques de luz
-[00:00:24] [Async Chat Thread - #35/INFO]: [Not Secure] <gato24teiko> internet explore usa el bryan?
-[00:02:28] [Server thread/INFO]: gato24teiko issued server command: /minecraft:team add OWNER
-[00:02:28] [Server thread/INFO]: [gato24teiko: Created team [OWNER]]
-[00:02:38] [Server thread/INFO]: gato24teiko issued server command: /team join OWNER gato24teiko
-[00:02:38] [Server thread/INFO]: [gato24teiko: Added gato24teiko to team [OWNER]]
-[00:02:54] [Server thread/INFO]: gato24teiko issued server command: /team modify OWNER color green
-[00:02:54] [Server thread/INFO]: [gato24teiko: Updated the color for team [OWNER] to green]
-[00:03:10] [Server thread/INFO]: gato24teiko issued server command: /team modify OWNER nametagVisibility always
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.320103000000003,1.0,-1.8162899999999809
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -17.104492,1.0,-1.8209699999999884
-[00:03:54] [Server thread/WARN]: .Meimeloii moved too quickly! -1.9395649999999947,3.0,-13.296949999999981
-[00:03:55] [Server thread/INFO]: gato24teiko issued server command: /team modify OWNER color dark_green
-[00:03:55] [Server thread/INFO]: [gato24teiko: Updated the color for team [OWNER] to dark_green]
-[00:04:07] [Async Chat Thread - #37/INFO]: [Not Secure] <gato24teiko> ya ta mi nombre en verde oscuro
-[00:04:29] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Meimeloii disconnected
-[00:04:29] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Meimeloii has disconnected from the Java server because of Bedrock client timed out
-[00:04:29] [Server thread/INFO]: .Meimeloii lost connection: Disconnected
-[00:04:29] [Server thread/INFO]: .Meimeloii left the game
-[00:05:01] [Server thread/INFO]: gato24teiko issued server command: /tag gato24teiko add OWNER
-[00:05:01] [Server thread/INFO]: [gato24teiko: Added tag 'OWNER' to gato24teiko]
-[00:05:29] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Meimeloii
-[00:05:29] [localSession-7-4/INFO]: [Geyser-Spigot] Meimeloii (logged in as: Meimeloii) has connected to the Java server
-[00:05:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Meimeloii joined (UUID: 00000000-0000-0000-0009-01f55f12da6b)
-[00:05:30] [Server thread/INFO]: .Meimeloii joined the game
-[00:05:30] [Server thread/INFO]: .Meimeloii[/127.0.0.1:0] logged in with entity id 14377 at ([world]-51.77351, 65.0, -356.1698)
-[00:06:10] [Server thread/INFO]: [Not Secure] [Server] tendria que tener que apagar el server y volverlo a encender para poner el skin resorte
-[00:06:12] [Server thread/WARN]: .Meimeloii moved too quickly! -7.297444999999996,1.8232500000000016,6.665710000000047
-[00:06:20] [Server thread/INFO]: OndaLil was shot by Skeleton
-[00:06:40] [Async Chat Thread - #41/INFO]: [Not Secure] <gato24teiko> sin duda es mundo bedrock los esqueletos disparan cabron
-[00:07:28] [Server thread/WARN]: .Meimeloii moved too quickly! 9.581755999999999,0.0,2.9305999999999983
-[00:07:29] [Server thread/INFO]: gato24teiko issued server command: /give gato24teiko minecraft:light
-[00:07:29] [Server thread/INFO]: [gato24teiko: Gave 1 [Light] to gato24teiko]
-[00:08:34] [Server thread/INFO]: .Meimeloii has made the advancement [Monster Hunter]
-[00:09:33] [Server thread/INFO]: gato24teiko has made the advancement [Monster Hunter]
-[00:10:42] [Server thread/INFO]: gato24teiko issued server command: /? Aliases
-[00:11:20] [Server thread/INFO]: gato24teiko issued server command: /effect give gato24teiko minecraft:invisibility infinite
-[00:11:20] [Server thread/INFO]: [gato24teiko: Applied effect Invisibility to gato24teiko]
-[00:11:22] [User Authenticator #3/INFO]: UUID of player Freeze_OBS is 7fb5580f-a55c-3083-89a8-1e165f3375f1
-[00:11:22] [Server thread/INFO]: Freeze_OBS joined the game
-[00:11:22] [Server thread/INFO]: Freeze_OBS[/127.29.236.70:58847] logged in with entity id 18136 at ([world]-9.5, 64.0, -155.5)
-[00:11:27] [Server thread/INFO]: Freeze_OBS lost connection: Disconnected
-[00:11:27] [Server thread/INFO]: Freeze_OBS left the game
-[00:12:18] [Server thread/INFO]: gato24teiko issued server command: /gamemode spectator
-[00:12:18] [Server thread/INFO]: [gato24teiko: Set own game mode to Spectator Mode]
-[00:13:27] [Async Chat Thread - #42/INFO]: [Not Secure] <gato24teiko> ostia
-[00:13:49] [Async Chat Thread - #42/INFO]: [Not Secure] <gato24teiko> no dire nada pero solo dire 2 estructuras
-[00:13:55] [Server thread/INFO]: gato24teiko has made the advancement [Minecraft: Trial(s) Edition]
-[00:14:13] [Server thread/INFO]: OndaLil was killed by Witch using magic
-[00:14:30] [Server thread/INFO]: gato24teiko issued server command: /advancement revoke gato24teiko everything
-[00:14:30] [Server thread/INFO]: [gato24teiko: Revoked 1399 advancements from gato24teiko]
-[00:15:06] [Server thread/INFO]: gato24teiko issued server command: /teleport spawn
-[00:15:36] [Server thread/INFO]: gato24teiko issued server command: /teleport OndaLil
-[00:15:36] [Server thread/INFO]: [gato24teiko: Teleported gato24teiko to OndaLil]
-[00:15:52] [Server thread/INFO]: gato24teiko issued server command: /gamemode creative
-[00:15:52] [Server thread/INFO]: [gato24teiko: Set own game mode to Creative Mode]
-[00:15:59] [Server thread/INFO]: gato24teiko issued server command: /effect clear
-[00:15:59] [Server thread/INFO]: [gato24teiko: Removed every effect from gato24teiko]
-[00:17:24] [Server thread/INFO]: [Not Secure] [Server] mei mei se mueve a tal velocidad que el server me dice que se tepea XD
-[00:18:16] [Server thread/INFO]: [Not Secure] [Server] .Meimeloii moved too quickly! 9.581755999999999,0.0,2.9305999999999983
-[00:18:40] [Async Chat Thread - #44/INFO]: [Not Secure] <gato24teiko> de teanto lag
-[00:18:47] [Async Chat Thread - #44/INFO]: [Not Secure] <gato24teiko> tanto
-[00:19:33] [Server thread/INFO]: Villager Villager['Nitwit'/21540, uuid='5c6d6d81-6059-453b-86da-09033080fbcc', l='ServerLevel[world]', x=-511.28, y=78.00, z=-961.37, cpos=[-32, -61], tl=191, v=true] died, message: 'Nitwit suffocated in a wall'
-[00:19:36] [Server thread/WARN]: .Meimeloii moved too quickly! -4.199714999999998,-1.0554699999999997,9.17007000000001
-[00:19:49] [Async Chat Thread - #46/INFO]: [Not Secure] <gato24teiko> recuerda david los aldeanos ya no son los de antes
-[00:20:04] [Async Chat Thread - #46/INFO]: [Not Secure] <gato24teiko> alto de los intercambios XD
-[00:20:28] [Server thread/INFO]: gato24teiko issued server command: /gamemode survival
-[00:20:28] [Server thread/INFO]: [gato24teiko: Set own game mode to Survival Mode]
-[00:21:00] [Async Chat Thread - #46/INFO]: [Not Secure] <gato24teiko> sera como la lapto de alguien que conozco con una lapto que por suerte corre el doom clasico
-[00:21:15] [Server thread/INFO]: gato24teiko issued server command: /gamemode creative
-[00:21:15] [Server thread/INFO]: [gato24teiko: Set own game mode to Creative Mode]
-[00:21:41] [Async Chat Thread - #46/INFO]: [Not Secure] <gato24teiko> la verdad esta buena la seed
-[00:22:49] [Async Chat Thread - #48/INFO]: [Not Secure] <gato24teiko> testeare cuando meta el plugin de homes
-[00:24:42] [Server thread/WARN]: .Meimeloii moved wrongly!
-[00:24:58] [Async Chat Thread - #50/INFO]: [Not Secure] <gato24teiko> que rico el overlay de discord
-[00:25:19] [User Authenticator #4/INFO]: UUID of player Bryangvv123 is 31a185c6-7e00-3f34-a297-aaedc3a72e6d
-[00:25:36] [Async Chat Thread - #51/INFO]: [Not Secure] <gato24teiko> a
-[00:25:37] [Server thread/INFO]: Bryangvv123 joined the game
-[00:25:37] [Server thread/INFO]: Bryangvv123[/127.173.86.117:34013] logged in with entity id 24817 at ([world]-3.5, 63.0, -158.5)
-[00:25:40] [Async Chat Thread - #50/INFO]: [Not Secure] <gato24teiko> XD
-[00:26:19] [Async Chat Thread - #50/INFO]: [Not Secure] <gato24teiko> imaginate que no te aguante el minecraft XD
-[00:26:50] [Server thread/INFO]: .Meimeloii was slain by Bryangvv123
-[00:26:52] [Async Chat Thread - #51/INFO]: [Not Secure] <gato24teiko> se la combea
-[00:27:09] [Async Chat Thread - #50/INFO]: [Not Secure] <gato24teiko> q
-[00:28:16] [Server thread/INFO]: OndaLil has made the advancement [Sweet Dreams]
-[00:28:17] [Async Chat Thread - #52/INFO]: [Not Secure] <gato24teiko> oh no
-[00:28:35] [Server thread/INFO]: Bryangvv123 has made the advancement [Monster Hunter]
-[00:28:43] [Async Chat Thread - #52/INFO]: [Not Secure] <gato24teiko> yo se lo que se siente jugar al genshi
-[00:28:49] [Server thread/INFO]: .Meimeloii has made the advancement [Sweet Dreams]
-[00:29:05] [Async Chat Thread - #53/INFO]: [Not Secure] <gato24teiko> demasiado espacio
-[00:29:59] [Server thread/INFO]: Bryangvv123 was slain by .Meimeloii
-[00:30:18] [Server thread/INFO]: gato24teiko issued server command: /gamerule playersSleepingPercentage 1
-[00:30:18] [Server thread/INFO]: [gato24teiko: Gamerule playersSleepingPercentage is now set to: 1]
-[00:30:27] [Server thread/INFO]: gato24teiko has made the advancement [Sweet Dreams]
-[00:30:32] [Async Chat Thread - #54/INFO]: [Not Secure] <gato24teiko> ya esta
-[00:30:41] [Async Chat Thread - #54/INFO]: [Not Secure] <gato24teiko> solo una persona duerme y se hace de noche
-[00:31:00] [Async Chat Thread - #54/INFO]: [Not Secure] <gato24teiko> se me descargaron los audifonos toco activarles los subtitulos
-[00:32:40] [Async Chat Thread - #56/INFO]: [Not Secure] <gato24teiko> me dicen cuando poner el skin resorte
-[00:32:51] [Async Chat Thread - #56/INFO]: [Not Secure] <gato24teiko> los andare viendo desde la consola
-[00:32:53] [Server thread/INFO]: gato24teiko lost connection: Disconnected
-[00:32:53] [Server thread/INFO]: gato24teiko left the game
-[00:35:51] [Server thread/INFO]: Bryangvv123 has made the advancement [Stone Age]
-[00:36:34] [Server thread/INFO]: .Meimeloii has made the advancement [Stone Age]
-[00:40:20] [Server thread/INFO]: Bryangvv123 has made the advancement [Getting an Upgrade]
-[00:40:29] [Server thread/INFO]: .Meimeloii has made the advancement [Getting an Upgrade]
-[00:42:33] [Server thread/INFO]: [Not Secure] [Server] encontre plugins interesantes
-[00:43:41] [Server thread/INFO]: Bryangvv123 was slain by .Meimeloii
-[00:43:46] [Server thread/INFO]: .Meimeloii was shot by Skeleton
-[00:44:58] [Server thread/INFO]: [Not Secure] [Server] uno lo mata su compañero y luego un esqueleto la mata sin dudas cine
-[00:46:19] [Server thread/INFO]: .Meimeloii was slain by Zombie
-[00:47:08] [Server thread/INFO]: .Meimeloii was slain by Zombie
-[00:50:40] [Server thread/WARN]: .Meimeloii moved wrongly!
-[00:51:25] [Async Chat Thread - #61/INFO]: [Not Secure] <Bryangvv123> gato haz q meimei se haga tp donde estoy yo
-[00:53:03] [Server thread/INFO]: No entity was found
-[00:53:33] [Server thread/INFO]: No entity was found
-[00:54:18] [Server thread/INFO]: No entity was found
-[00:55:27] [Server thread/INFO]: [Not Secure] [Server] puedo poner los plugins de home y tpa
-[00:55:40] [Async Chat Thread - #62/INFO]: [Not Secure] <Bryangvv123> como q aun no estaba el tp?
-[00:55:46] [Server thread/INFO]: .Meimeloii fell from a high place
-[00:55:47] [Server thread/INFO]: [Not Secure] [Server] no
-[00:55:59] [Server thread/INFO]: [Not Secure] [Server] solo el de crossplay
-[00:56:28] [Server thread/INFO]: Bryangvv123 was shot by Skeleton
-[00:57:27] [Server thread/INFO]: [Not Secure] [Server] ta en normal
-[00:57:36] [Server thread/INFO]: [Not Secure] [Server] difficulty easy
-[00:57:41] [Server thread/INFO]: [Not Secure] [Server] o que
-[00:58:00] [Server thread/INFO]: [Not Secure] [Server] va
-[00:58:04] [Server thread/INFO]: [Not Secure] [Server] hardcore
-[00:58:19] [Server thread/INFO]: The difficulty has been set to Easy
-[00:58:26] [Server thread/INFO]: [Not Secure] [Server] XD
-[00:58:57] [Server thread/INFO]: [Not Secure] [Server] yo me avente un hardcore en un server y podias revivir con vidas pero era un mods
-[00:59:15] [Async Chat Thread - #64/INFO]: [Not Secure] <Bryangvv123> no
-[00:59:25] [Async Chat Thread - #64/INFO]: [Not Secure] <Bryangvv123> por ahora centrate en el tp y
-[00:59:37] [Async Chat Thread - #66/INFO]: [Not Secure] <Bryangvv123> poner mejor spawn
-[00:59:52] [Server thread/INFO]: [Not Secure] [Server] temprano
-[01:00:01] [Server thread/INFO]: [Not Secure] [Server] son las 7
-[01:00:32] [Server thread/INFO]: [Not Secure] [Server] igualada eh
-[01:03:03] [Server thread/INFO]: [Not Secure] [Server] lo que tendria que testear es que los plugins del skin y le home funcionene en bedrock aun que son comandos
-[01:03:35] [Server thread/INFO]: [Not Secure] [Server] 30 minutos sin que nadie se una se cierra
-[01:03:44] [Async Chat Thread - #67/INFO]: [Not Secure] <Bryangvv123> vaa
-[01:04:03] [Server thread/INFO]: [Not Secure] [Server] asi son ellos
-[01:04:19] [Server thread/INFO]: [Not Secure] [Server] luego le va a doler las rodillas o la espina dorsal
-[01:04:50] [Server thread/INFO]: [Not Secure] [Server] para al final valio madres XD
-[01:05:21] [Server thread/INFO]: [Not Secure] [Server] yo tenia mi colina y no sabia tanto de granjas y comandos
-[01:05:41] [Server thread/INFO]: [Not Secure] [Server] mushroom cave?
-[01:05:52] [Server thread/INFO]: [Not Secure] [Server] aparecen ahi ajolotes
-[01:06:00] [Server thread/INFO]: [Not Secure] [Server] si
-[01:06:02] [Async Chat Thread - #67/INFO]: [Not Secure] <Bryangvv123> vaa
-[01:06:24] [Server thread/INFO]: [Not Secure] [Server] yo sabiendo que con una palabra me apago el server
-[01:07:00] [Server thread/WARN]: .Meimeloii moved wrongly!
-[01:07:25] [Server thread/INFO]: [Not Secure] [Server] me se un bioma que son las planicies con flores
-[01:07:44] [Server thread/INFO]: Bryangvv123 was shot by Skeleton
-[01:07:59] [Server thread/INFO]: [Not Secure] [Server] pero tengo que ver una buena estructura que se vea bien
-[01:08:08] [Server thread/INFO]: [Not Secure] [Server] los venezolanos le estan ganando
-[01:08:38] [Server thread/INFO]: [Not Secure] [Server] si el portal en ruinas
-[01:09:04] [Server thread/INFO]: [Not Secure] [Server] ganas te tirar un stop
-[01:09:15] [Server thread/INFO]: [Not Secure] [Server] apaga el server
-[01:09:26] [Server thread/INFO]: [Not Secure] [Server] XD
-[01:10:04] [Server thread/INFO]: [Not Secure] [Server] creo que puedo meter los plugins de mientras y ya cuando apagarlo y iniciarlo para que se cargen
-[01:12:44] [Server thread/INFO]: [Not Secure] [Server] si
-[01:12:52] [Server thread/INFO]: [Not Secure] [Server] ya lo puse y si se podia
-[01:13:13] [Server thread/INFO]: [Not Secure] [Server] Create music discs using mp3, wav and flac files, and play audio from YouTube. Enhance and create a unique atmosphere in your game world. esto es para crear discos custom con url de youtube
-[01:13:34] [Server thread/INFO]: [Not Secure] [Server] verdad que bryan reprobo ingles
-[01:13:49] [Server thread/INFO]: Bryangvv123 was slain by Zombie
-[01:14:26] [Server thread/INFO]: [Not Secure] [Server] crea discos musicales usando mp3 wav flac files y escucha audos desde youtube
-[01:14:31] [Server thread/INFO]: [Not Secure] [Server] eso hace
-[01:14:39] [Server thread/INFO]: [Not Secure] [Server] si
-[01:14:43] [Server thread/INFO]: [Not Secure] [Server] poner al faraon
-[01:16:03] [Server thread/INFO]: [Not Secure] [Server] aqui en mi escuela pusieron varias cosas como gemido y se trajieron marihuana y se drogaron en los baños
-[01:16:15] [Server thread/INFO]: [Not Secure] [Server] si
-[01:17:02] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[01:17:10] [Server thread/INFO]: OndaLil has made the advancement [Acquire Hardware]
-[01:17:25] [Server thread/INFO]: [Not Secure] [Server] morir
-[01:18:12] [Server thread/INFO]: [Not Secure] [Server] deeslaleef
-[01:18:16] [Server thread/INFO]: [Not Secure] [Server] o algo asi
-[01:18:24] [Server thread/INFO]: [Not Secure] [Server] capas negativas
-[01:18:29] [Server thread/INFO]: OndaLil has made the advancement [Isn't It Iron Pick]
-[01:18:30] [Server thread/INFO]: [Not Secure] [Server] osea de 0 para abajo
-[01:19:21] [Server thread/INFO]: OndaLil has made the advancement [Suit Up]
-[01:22:45] [Server thread/INFO]: OndaLil lost connection: Disconnected
-[01:22:45] [Server thread/INFO]: OndaLil left the game
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.418200000000013,4.246799999999993,-16.34427500000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:23:53] [Server thread/WARN]: .Meimeloii moved too quickly! 6.310949999999991,3.666799999999995,-16.20253600000001
-[01:26:00] [Server thread/INFO]: [Not Secure] [Server] cual la del happy ghast?
-[01:26:06] [Server thread/INFO]: [Not Secure] [Server] haya si esta
-[01:26:25] [Server thread/INFO]: [Not Secure] [Server] la de los arboles blancos si el happy ghast no
-[01:26:34] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Meimeloii disconnected
-[01:26:34] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Meimeloii has disconnected from the Java server because of Bedrock client disconnected
-[01:26:34] [Server thread/INFO]: .Meimeloii lost connection: Disconnected
-[01:26:34] [Server thread/INFO]: .Meimeloii left the game
-[01:26:39] [Server thread/INFO]: [Not Secure] [Server] ya que el happy ghast viene en la 1.22
-[01:26:44] [Server thread/INFO]: [Not Secure] [Server] es un bioma
-[01:26:53] [Server thread/INFO]: [Not Secure] [Server] si
-[01:26:57] [Server thread/INFO]: [Not Secure] [Server] esta ahi
-[01:27:09] [Server thread/INFO]: [Not Secure] [Server] ni me acuerdo
-[01:27:17] [Server thread/INFO]: [Not Secure] [Server] no siquiera revelante
-[01:28:18] [Server thread/INFO]: [Not Secure] [Server] el panda mas tranquilo apunto a tirarse a una cueva
-[01:28:26] [Server thread/INFO]: [Not Secure] [Server] si
-[01:28:59] [Server thread/INFO]: [Not Secure] [Server] no hay micro
-[01:29:10] [Server thread/INFO]: [Not Secure] [Server] no mas eso no tengo micro
-[01:29:21] [Server thread/INFO]: [Not Secure] [Server] si
-[01:29:41] [Server thread/INFO]: [Not Secure] [Server] toco verme 7 horas de una granja de hierro
-[01:29:52] [Server thread/INFO]: [Not Secure] [Server] en bedrock no
-[01:30:00] [Server thread/INFO]: [Not Secure] [Server] si
-[01:30:10] [Server thread/INFO]: [Not Secure] [Server] pero esta mas presente el bedrock en el mundo
-[01:30:20] [Server thread/INFO]: [Not Secure] [Server] si
-[01:30:29] [Server thread/INFO]: [Not Secure] [Server] y sus esqueletos conchudos
-[01:31:07] [Server thread/INFO]: [Not Secure] [Server] mei se va a dormir a las 8 que temprano siendo mañana domingo
-[01:31:11] [Server thread/INFO]: [Not Secure] [Server] talvez
-[01:31:40] [Server thread/INFO]: [Not Secure] [Server] ni mi hermana que hace como 40 grados y se duerme con una cobija
-[01:32:18] [Server thread/INFO]: [Not Secure] [Server] se duerme a esa hora y se despierta a las 3 de la mañana XD
-[01:32:36] [Async Chat Thread - #75/INFO]: [Not Secure] <Bryangvv123> 56
-[01:33:21] [Server thread/INFO]: [Not Secure] [Server] si
-[01:33:27] [Server thread/INFO]: [Not Secure] [Server] ok
-[01:34:16] [Server thread/INFO]: [Not Secure] [Server] toy a punt ode mandar un video de un mod goat y decir por pobres no pude hacer esto con el server
-[01:35:16] [Server thread/INFO]: [Not Secure] [Server] te quejas sin sabes que estan varios spidermans bien echos
-[01:35:41] [Server thread/INFO]: [Not Secure] [Server] el miles morales y el miguel o hara
-[01:35:45] [Server thread/INFO]: [Not Secure] [Server] asi
-[01:36:56] [Async Chat Thread - #79/INFO]: [Not Secure] <Bryangvv123> xdxd
-[01:37:20] [Server thread/INFO]: [Not Secure] [Server] Amazon
-Anti-Matter
-Arachnid
-Asgardian
-Atlanteans
-Cosmic Powers (Silver Surfer)
-Cosmic-Radiated Individuals
-Half-Kryptonians
-Hell Spawn
-Hulks
-Kryptonian
-Kree Hybr
-[01:37:26] [Server thread/INFO]: [Not Secure] [Server] de eso ahi
-[01:37:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
-y mas<--[HERE]
-[01:37:31] [Server thread/INFO]: [Not Secure] [Server] y mas
-[01:37:36] [Async Chat Thread - #79/INFO]: [Not Secure] <Bryangvv123> xd
-[01:38:10] [Server thread/INFO]: [Not Secure] [Server] va a estar jodido
-[01:38:44] [Server thread/INFO]: [Not Secure] [Server] al final tendre que conectar el server con la pc para que tenga mas ram
-[01:38:51] [Server thread/INFO]: [Not Secure] [Server] tipo fusion
-[01:39:18] [Server thread/INFO]: [Not Secure] [Server] ese eres tu
-[01:39:36] [Server thread/INFO]: [Not Secure] [Server] como el server esta en eu west
-[01:39:55] [Server thread/INFO]: [Not Secure] [Server] estados unidos oeste
-[01:40:04] [Server thread/INFO]: [Not Secure] [Server] o este
-[01:40:59] [Server thread/INFO]: [Not Secure] [Server] eso mata neuronas y billeteras
-[01:41:29] [User Authenticator #5/INFO]: UUID of player OndaLil is e2cf85c4-a515-3284-bcc7-43c3dfbc86cf
-[01:41:31] [Server thread/INFO]: OndaLil joined the game
-[01:41:31] [Server thread/INFO]: OndaLil[/127.110.110.90:34277] logged in with entity id 67343 at ([world]846.6934269817131, 74.0, 4104.300000011921)
-[01:41:50] [Server thread/INFO]: [Not Secure] [Server] si supieran algo curioso
-[01:42:39] [Server thread/INFO]: [Not Secure] [Server] veo sus ips
-[01:42:47] [Server thread/INFO]: [Not Secure] [Server] pero tipo de su zona
-[01:42:53] [Server thread/INFO]: [Not Secure] [Server] XD
-[01:43:35] [Server thread/INFO]: [Not Secure] [Server] ↸╎𝙹ᓭ ᒷᓭℸ ̣ ᔑ ᑑ⚍╎ ᓵ𝙹リ ⋮ᒷᓭ⚍ᓭ
-[01:43:41] [Server thread/INFO]: [Not Secure] [Server] cosas que aprendi
-[01:43:58] [Server thread/INFO]: [Not Secure] [Server] son las letras de los encantamientos
-[01:44:09] [Server thread/INFO]: [Not Secure] [Server] si
-[01:44:25] [Server thread/INFO]: Set the time to 1000
-[01:44:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
-es de dia<--[HERE]
-[01:44:31] [Server thread/INFO]: [Not Secure] [Server] es de dia
-[01:45:09] [Server thread/INFO]: [Not Secure] [Server] le podria bloquear el nether hasta cierto dia a lo estilo dedsafio
-[01:45:59] [Server thread/INFO]: [Not Secure] [Server] van y estan en bioma de arena de almas y van a salir mas rapido que en lo que entraron
-[01:46:20] [Server thread/INFO]: [Not Secure] [Server] el ghast y un chingo de esqueletos
-[01:46:38] [Server thread/INFO]: [Not Secure] [Server] podria bloquearselos XD
-[01:47:24] [Server thread/INFO]: [Not Secure] [Server] rico tener como 9 plugins y 0 mods por buenas razones
-[01:47:57] [Server thread/INFO]: Bryangvv123 was slain by Cave Spider
-[01:48:20] [Server thread/INFO]: [Not Secure] [Server] moo se va a poder
-[01:48:35] [Server thread/INFO]: [Not Secure] [Server] digamos que ni idea de donde moriste
-[01:49:15] [Server thread/INFO]: [Not Secure] [Server] en spawn limits en mounstros son 70 XD
-[01:49:36] [Server thread/INFO]: [Not Secure] [Server] nah
-[01:51:12] [Server thread/INFO]: [Not Secure] [Server] no joda
-[01:51:13] [Server thread/INFO]: Bryangvv123 was slain by Zombie
-[01:51:23] [Server thread/INFO]: [Not Secure] [Server] para eso mejor lo pongo el pacifico
-[01:51:31] [Server thread/INFO]: [Not Secure] [Server] como rin
-[01:51:48] [Server thread/INFO]: [Not Secure] [Server] imaginate morir en facil
-[01:52:12] [Server thread/INFO]: [Not Secure] [Server] esta bueno mira como lo hago
-[01:52:18] [Server thread/INFO]: Stopping the server
-[01:52:18] [Server thread/INFO]: Stopping server
-[01:52:18] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
-[01:52:18] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
-[01:52:18] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[01:52:18] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[01:52:18] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
-[01:52:18] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[01:52:18] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[01:52:18] [Server thread/INFO]: Saving players
-[01:52:18] [Server thread/INFO]: OndaLil lost connection: Server closed
-[01:52:18] [Server thread/INFO]: OndaLil left the game
-[01:52:18] [Server thread/INFO]: Bryangvv123 lost connection: Server closed
-[01:52:18] [Server thread/INFO]: Bryangvv123 left the game
-[01:52:18] [WebSocketConnectReadThread-85/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[01:52:18] [Server thread/INFO]: Saving worlds
-[01:52:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:52:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:52:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:52:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:52:23] [Server thread/INFO]: [ChunkHolderManager] Saved 2206 block chunks, 1232 entity chunks, 1 poi chunks in world 'world' in 4.39s
-[01:52:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:52:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:52:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:52:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:52:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[01:52:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:52:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:52:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:52:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:52:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[01:52:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:52:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:52:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:52:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:54:03] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[07:54:03] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[07:54:03] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:54:05] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/customcrafting-spigot-4.19.0.jar'...
+[07:54:05] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/voicechat-bukkit-2.5.30.jar'...
+[07:54:05] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/BattleArena.jar'...
+[07:54:05] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/xaero-map-spigot-1.0.0.jar'...
+[07:54:06] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/xaero-map-spigot-1.0.0.jar' in 1135ms.
+[07:54:06] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/UltimateTeams-3.3.jar'...
+[07:54:08] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/BattleArena.jar' in 3158ms.
+[07:54:08] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/FoxAddition.jar'...
+[07:54:09] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/FoxAddition.jar' in 742ms.
+[07:54:09] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/worldedit-bukkit-7.3.12-beta-02.jar'...
+[07:54:09] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/voicechat-bukkit-2.5.30.jar' in 4085ms.
+[07:54:09] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/JEXT-Reborn_2.1.9.jar'...
+[07:54:10] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/customcrafting-spigot-4.19.0.jar' in 4800ms.
+[07:54:10] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/BackpackPlus-1.5.6-beta-all.jar'...
+[07:54:11] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/BackpackPlus-1.5.6-beta-all.jar' in 1128ms.
+[07:54:11] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/UltimateTeams-3.3.jar' in 5254ms.
+[07:54:13] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/JEXT-Reborn_2.1.9.jar' in 4055ms.
+[07:54:14] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/worldedit-bukkit-7.3.12-beta-02.jar' in 5117ms.
+[07:54:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 21 plugins
+[07:54:17] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - HuskHomes (4.9.6)
+[07:54:17] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (20):
+ - BackpackPlus (1.5.6-beta), BattleArena (4.0.2), CustomCrafting (4.19.0), CustomDiscs (2.1.8), DropHead (2.0.0), FoxAddition (1.2.0), Geyser-Spigot (2.7.1-SNAPSHOT), InvSeePlusPlus (0.29.20), JukeboxExtendedReborn (2.1.9), NameColor (1.10.1), ProtocolLib (5.3.0), SkinsRestorer (15.6.3), UltimateTeams (3.3), Vanish (0.1), ViaBackwards (5.3.2), ViaVersion (5.3.2), WorldEdit (7.3.12-beta-02+ac380ad), floodgate (2.2.4-SNAPSHOT (b116-0e3163c)), voicechat (2.5.30), xaero-map-spigot (1.0.0)
+[07:54:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:54:29] [ServerMain/INFO]: Loaded 1290 recipes
+[07:54:29] [ServerMain/INFO]: Loaded 1399 advancements
+[07:54:30] [Server thread/INFO]: Starting minecraft server version 1.21
+[07:54:30] [Server thread/INFO]: Loading properties
+[07:54:30] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[07:54:31] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:54:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:54:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:54:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[07:54:32] [Server thread/INFO]: Default game type: SURVIVAL
+[07:54:32] [Server thread/INFO]: Generating keypair
+[07:54:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:54:32] [Server thread/INFO]: Using epoll channel type
+[07:54:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:54:32] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[07:54:32] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/customcrafting-spigot-4.19.0.jar' in 'plugins/.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [WolfyUtilities, NBTAPI]. Please download and install these plugins to run 'CustomCrafting'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:546) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:292) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[07:54:35] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'worldedit-bukkit-7.3.12-beta-02.jar' in folder 'plugins/.paper-remapped'
+org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.3
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:369) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:546) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:292) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[07:54:36] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loading 3 libraries... please wait
+[07:54:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.pom
+[07:54:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+[07:54:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.pom
+[07:54:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.0-alpha1/slf4j-parent-2.0.0-alpha1.pom
+[07:54:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.pom
+[07:54:36] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact org.slf4j:slf4j-api:pom:1.7.36 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:36] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact org.slf4j:slf4j-api:pom:1.7.36 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:36] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact org.slf4j:slf4j-parent:pom:1.7.36 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:36] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact org.slf4j:slf4j-parent:pom:1.7.36 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.pom
+[07:54:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.pom
+[07:54:36] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar
+[07:54:36] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[07:54:36] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.jar
+[07:54:36] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar
+[07:54:36] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.jar
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/server/servidor_minecraft/libraries/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/server/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/server/servidor_minecraft/libraries/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.jar
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/server/servidor_minecraft/libraries/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.jar
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/server/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loading 6 libraries... please wait
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/9.0.0/mysql-connector-j-9.0.0.pom
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.pom
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/4.26.1/protobuf-parent-4.26.1.pom
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/4.26.1/protobuf-bom-4.26.1.pom
+[07:54:37] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.4.1/mariadb-java-client-3.4.1.pom
+[07:54:37] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact org.junit:junit-bom:pom:5.7.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:37] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact org.junit:junit-bom:pom:5.7.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact software.amazon.awssdk:bom:pom:2.21.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact software.amazon.awssdk:bom:pom:2.21.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact software.amazon.awssdk:aws-sdk-java-pom:pom:2.21.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact software.amazon.awssdk:aws-sdk-java-pom:pom:2.21.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/github/waffle/waffle-parent/3.3.0/waffle-parent-3.3.0.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.7/slf4j-parent-2.0.7.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.19.0/checker-qual-3.19.0.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.10.0/error_prone_parent-2.10.0.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.32.0/checker-qual-3.32.0.pom
+[07:54:38] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact com.h2database:h2:pom:2.3.232 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact com.h2database:h2:pom:2.3.232 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.pom
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.pom
+[07:54:38] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact org.slf4j:slf4j-api:jar:1.7.36 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact com.h2database:h2:jar:2.3.232 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact org.slf4j:slf4j-api:jar:1.7.36 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [org.eclipse.aether.internal.impl.DefaultArtifactResolver] Artifact com.h2database:h2:jar:2.3.232 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [central (https://repo.maven.apache.org/maven2, default, releases+snapshots)]
+[07:54:38] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/9.0.0/mysql-connector-j-9.0.0.jar
+[07:54:38] [BasicRepositoryConnector-repo.maven.apache.org-1-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.4.1/mariadb-java-client-3.4.1.jar
+[07:54:38] [BasicRepositoryConnector-repo.maven.apache.org-1-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.jar
+[07:54:38] [BasicRepositoryConnector-repo.maven.apache.org-1-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.jar
+[07:54:38] [BasicRepositoryConnector-repo.maven.apache.org-1-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar
+[07:54:38] [BasicRepositoryConnector-repo.maven.apache.org-1-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar
+[07:54:38] [BasicRepositoryConnector-repo.maven.apache.org-1-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.jar
+[07:54:38] [BasicRepositoryConnector-repo.maven.apache.org-1-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.jar
+[07:54:38] [BasicRepositoryConnector-repo.maven.apache.org-1-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.jar
+[07:54:38] [BasicRepositoryConnector-repo.maven.apache.org-1-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar
+[07:54:39] [BasicRepositoryConnector-repo.maven.apache.org-1-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/mysql/mysql-connector-j/9.0.0/mysql-connector-j-9.0.0.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/mariadb/jdbc/mariadb-java-client/3.4.1/mariadb-java-client-3.4.1.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/h2database/h2/2.3.232/h2-2.3.232.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [xaero-map-spigot] Loading 1 libraries... please wait
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-bukkit/3.0.0/bstats-bukkit-3.0.0.pom
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-base/3.0.0/bstats-base-3.0.0.pom
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-bukkit/3.0.0/bstats-bukkit-3.0.0.jar
+[07:54:39] [BasicRepositoryConnector-repo.maven.apache.org-2-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-base/3.0.0/bstats-base-3.0.0.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [xaero-map-spigot] Loaded library /workspaces/server/servidor_minecraft/libraries/org/bstats/bstats-bukkit/3.0.0/bstats-bukkit-3.0.0.jar
+[07:54:39] [Server thread/INFO]: [SpigotLibraryLoader] [xaero-map-spigot] Loaded library /workspaces/server/servidor_minecraft/libraries/org/bstats/bstats-base/3.0.0/bstats-base-3.0.0.jar
+[07:54:39] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[07:54:39] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[07:54:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[07:54:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[07:54:44] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[07:54:44] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[07:54:47] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[07:54:49] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[07:54:49] [Server thread/INFO]: [floodgate] Took 2,679ms to boot Floodgate
+[07:54:49] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[07:54:50] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.30
+[07:54:50] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.1-SNAPSHOT
+[07:54:52] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[07:54:52] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[07:54:52] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[07:54:52] [Server thread/INFO]: [HuskHomes] Loading server plugin HuskHomes v4.9.6
+[07:54:53] [Server thread/INFO]: [HuskHomes] Registered 'on_load' hooks
+[07:54:53] [Server thread/INFO]: [HuskHomes] Successfully loaded HuskHomes v4.9.6
+[07:54:53] [Server thread/INFO]: [CustomDiscs] Loading server plugin CustomDiscs v2.1.8
+[07:54:53] [Server thread/INFO]: [BackpackPlus] Loading server plugin BackpackPlus v1.5.6-beta
+[07:54:53] [Server thread/INFO]: [JEXT] Loading server plugin JukeboxExtendedReborn v2.1.9
+[07:54:53] [Server thread/INFO]: [FA] Loading server plugin FoxAddition v1.2.0
+[07:54:53] [Server thread/INFO]: [Vanish] Loading server plugin Vanish v0.1
+[07:54:53] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.3
+[07:54:53] [Server thread/INFO]: [UltimateTeams] Loading server plugin UltimateTeams v3.3
+[07:54:53] [Server thread/INFO]: [DropHead] Loading server plugin DropHead v2.0.0
+[07:54:53] [Server thread/INFO]: [InvSee++] Loading server plugin InvSeePlusPlus v0.29.20
+[07:54:53] [Server thread/INFO]: [xaero-map-spigot] Loading server plugin xaero-map-spigot v1.0.0
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading server plugin BattleArena v4.0.2
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading BattleArena 4.0.2 for 1.21-130-b1b5d4c (MC: 1.21)
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading module Team Colors v1.0.0 by BattlePlugins
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading module Auto Arena v1.0.0 by BattlePlugins
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading module Tournaments v1.0.0 by BattlePlugins
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading module Boundary Enforcer v1.0.0 by BattlePlugins
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading module Party v1.0.0 by BattlePlugins
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading module Hologram v1.0.0 by BattlePlugins
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading module One in the Chamber v1.0.0 by BattlePlugins
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading module PlaceholderAPI v1.0.0 by BattlePlugins
+[07:54:53] [Server thread/INFO]: [BattleArena] Loading module Duels v1.0.0 by BattlePlugins
+[07:54:54] [Server thread/INFO]: [BattleArena] Loading module Classes v1.0.0 by BattlePlugins
+[07:54:54] [Server thread/INFO]: [BattleArena] Loading module Arena Restoration v1.0.0 by BattlePlugins
+[07:54:54] [Server thread/INFO]: [BattleArena] Loading module Scoreboards v1.0.0 by BattlePlugins
+[07:54:54] [Server thread/INFO]: [BattleArena] Loading module Team Heads v1.0.0 by BattlePlugins
+[07:54:54] [Server thread/INFO]: [BattleArena] Loading module Vault v1.0.0 by BattlePlugins
+[07:54:54] [Server thread/INFO]: [BattleArena] Loading module Items v1.0.0 by BattlePlugins
+[07:54:54] [Server thread/INFO]: [NameColor] Loading server plugin NameColor v1.10.1
+[07:54:54] [Server thread/INFO]: [NameColor] Essentials plugin not found, defaulting to server mode.
+[07:54:54] [Server thread/INFO]: [NameColor] Storage Method: yaml
+[07:54:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:54:54] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[07:54:54] [Server thread/INFO]: [JEXT] Enabling JukeboxExtendedReborn v2.1.9
+[07:54:56] [Server thread/ERROR]: [JEXT] Failed to register events for class me.spartacus04.jext.listeners.VaultDispenseEvent because org/bukkit/event/block/BlockDispenseLootEvent does not exist.
+[07:54:56] [Server thread/ERROR]: [JEXT] Failed to register events for class me.spartacus04.jext.listeners.TrialSpawnerDispenseEvent because org/bukkit/event/block/BlockDispenseLootEvent does not exist.
+[07:54:56] [Server thread/INFO]: [JEXT] Enabled Jukebox Extended Reborn, Do Re Mi!
+[07:54:56] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.3
+[07:54:56] [DefaultDispatcher-worker-2/INFO]: [JEXT] resource-pack.zip not found, please provide it in the plugin directory
+[07:54:57] [DefaultDispatcher-worker-1/INFO]: [JEXT] No custom discs found! Check out the documentation for more info.
+[07:54:57] [DefaultDispatcher-worker-1/INFO]: [https://spartacus04.github.io/jext-reborn/docs/]
+[07:54:58] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[07:54:59] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[07:55:00] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[07:55:00] [Server thread/INFO]: [xaero-map-spigot] Enabling xaero-map-spigot v1.0.0
+[07:55:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:55:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:55:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:55:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:55:00] [Server thread/INFO]: Preparing level "world"
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.6.3
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 7eb6dc6
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[07:55:00] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[07:55:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:55:03] [Server thread/INFO]: Time elapsed: 2533 ms
+[07:55:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:55:03] [Server thread/INFO]: Time elapsed: 497 ms
+[07:55:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:55:03] [Server thread/INFO]: Time elapsed: 209 ms
+[07:55:04] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[07:55:04] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[07:55:04] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[07:55:05] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.30
+[07:55:05] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21-R0.1
+[07:55:05] [Server thread/INFO]: [voicechat] Compatibility version 18
+[07:55:05] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[07:55:05] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[07:55:05] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.1-SNAPSHOT
+[07:55:06] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[07:55:06] [Server thread/INFO]: [HuskHomes] Enabling HuskHomes v4.9.6
+[07:55:07] [Server thread/INFO]: [HuskHomes] Registered 'on_enable' hooks
+[07:55:07] [Server thread/INFO]: [HuskHomes] Successfully enabled HuskHomes v4.9.6
+[07:55:07] [Server thread/INFO]: [CustomDiscs] Enabling CustomDiscs v2.1.8
+[07:55:08] [Server thread/INFO]: <prefix.info>Created plugin data folder
+[07:55:09] [Server thread/INFO]: [CustomDiscs Info] Created music data folder
+[07:55:09] [Server thread/INFO]: [CustomDiscs Info] Successfully enabled voicechat hook
+[07:55:09] [Server thread/INFO]: [BackpackPlus] Enabling BackpackPlus v1.5.6-beta
+[07:55:09] [Server thread/INFO]: [BackpackPlus] [Pack] Resource pack copied to pack folder.
+[07:55:09] [Server thread/INFO]: [BackpackPlus] [Pack] New version found, updating readme...
+[07:55:09] [Server thread/INFO]: [BackpackPlus] [Pack] Readme updated.
+[07:55:10] [Server thread/INFO]: [BackpackPlus] [Settings] Configuration loaded successfully. No missing fields detected.
+[07:55:10] [Server thread/INFO]: [BackpackPlus] [Database] Configuration loaded successfully. No missing fields detected.
+[07:55:10] [Server thread/INFO]: [BackpackPlus] [Database] SQLite Successfully connected to database
+[07:55:10] [Server thread/INFO]: [BackpackPlus] Tables and indexes created successfully.
+[07:55:10] [Server thread/INFO]: [BackpackPlus] Language used: eng
+[07:55:11] [Server thread/INFO]: [FA] Enabling FoxAddition v1.2.0
+[07:55:11] [Server thread/INFO]: [FA]                           
+[07:55:11] [Server thread/INFO]: [FA] ______                         _      _  _  _    _                 
+[07:55:11] [Server thread/INFO]: [FA] |  ____|             /\       | |    | |(_)| |  (_)              
+[07:55:11] [Server thread/INFO]: [FA] | |__  ___ __  __   /  \    __| |  __| | _ | |_  _   ___   _ __  
+[07:55:11] [Server thread/INFO]: [FA] |  __|/ _ \\ \/ /  / /\ \  / _` | / _` || || __|| | / _ \ | '_ \ 
+[07:55:11] [Server thread/INFO]: [FA] | |  | (_) |>  <  / ____ \| (_| || (_| || || |_ | || (_) || | | |
+[07:55:11] [Server thread/INFO]: [FA] |_|   \___//_/\_\/_/    \_\\__,_| \__,_||_| \__||_| \___/ |_| |_|
+[07:55:11] [Server thread/INFO]: [FA]          Powered by https://www.idcteam.xyz/
+[07:55:11] [Server thread/INFO]: [FA]                           
+[07:55:11] [Server thread/INFO]: [FA]                  Created by NovaCraft254
+[07:55:11] [Server thread/INFO]: [FA]          Running on 1.21-130-b1b5d4c (MC: 1.21)
+[07:55:11] [Server thread/INFO]: [FA]                           
+[07:55:11] [Server thread/INFO]: [FA] [LOGS] The cleanup of old logs started...
+[07:55:11] [Server thread/INFO]: [FA] [LOGS] The cleanup of old logs finished.
+[07:55:11] [Server thread/INFO]: [FA] [PHASE] Detecting automatically your version...
+[07:55:11] [Server thread/INFO]: [FA] [HOOK] Geyser (with Floodgate) has been hooked.
+[07:55:11] [Server thread/INFO]: [FA] [HOOK] Bedrock: Adding support for bedrock players with prefix or UUID.
+[07:55:11] [Server thread/INFO]: [FA] [HOOK] ProtocolLib has been hooked.
+[07:55:11] [Server thread/INFO]: [FA] [FILES] FileWatcher is now enabled and ready to apply changes.
+[07:55:11] [Server thread/WARN]: [FA] [UPDATER] A new version of this plugin has been found.
+[07:55:11] [Server thread/WARN]: [FA] [UPDATER] Your version is: 1.2.0
+[07:55:11] [Server thread/WARN]: [FA] [UPDATER] Latest version is: 1.2.2
+[07:55:11] [Server thread/WARN]: [FA] [UPDATER] Download it in: https://www.spigotmc.org/resources/111260/
+[07:55:11] [Server thread/INFO]: [Vanish] Enabling Vanish v0.1
+[07:55:11] [Server thread/INFO]: [UltimateTeams] Enabling UltimateTeams v3.3
+[07:55:11] [Server thread/INFO]: [UltimateTeams] [ACF] Enabled Asynchronous Tab Completion Support!
+[07:55:11] [Server thread/INFO]: [UltimateTeams] Initializing plugin config & locale files...
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Successfully initialized plugin config & locale files
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Initializing SQLite database connection...
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Created the SQLite database file
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Database tables created
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Successfully initialized SQLite database connection
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Initializing commands...
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Successfully initialized commands
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Initializing events...
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Successfully initialized events
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Initializing teams...
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Successfully initialized teams
+[07:55:12] [Server thread/INFO]: -------------------------------------------
+[07:55:12] [Server thread/INFO]: UltimateTeams: PlaceholderAPI not found!
+[07:55:12] [Server thread/INFO]: UltimateTeams: External placeholders disabled!
+[07:55:12] [Server thread/INFO]: -------------------------------------------
+[07:55:12] [Server thread/INFO]: -------------------------------------------
+[07:55:12] [Server thread/INFO]: UltimateTeams: FloodgateApi not found/feature disabled!
+[07:55:12] [Server thread/INFO]: UltimateTeams: Bedrock support won't work!
+[07:55:12] [Server thread/INFO]: -------------------------------------------
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Initializing metrics...
+[07:55:12] [Server thread/INFO]: [UltimateTeams] Successfully initialized metrics
+[07:55:12] [Server thread/INFO]: [DropHead] Enabling DropHead v2.0.0
+[07:55:12] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.29.20
+[07:55:13] [Server thread/INFO]: [BattleArena] Enabling BattleArena v4.0.2
+[07:55:13] [Server thread/INFO]: [BattleArena] Enabled module Items v1.0.0
+[07:55:13] [Server thread/INFO]: [BattleArena] Enabled module Boundary Enforcer v1.0.0
+[07:55:13] [Server thread/INFO]: [BattleArena] Enabled module Tournaments v1.0.0
+[07:55:13] [Server thread/INFO]: [BattleArena] Enabled module PlaceholderAPI v1.0.0
+[07:55:13] [Server thread/INFO]: [BattleArena] Enabled module Auto Arena v1.0.0
+[07:55:13] [Server thread/INFO]: [BattleArena] Enabled module Hologram v1.0.0
+[07:55:14] [Server thread/INFO]: [BattleArena] Enabled module Classes v1.0.0
+[07:55:14] [Server thread/INFO]: [BattleArena] Enabled module Duels v1.0.0
+[07:55:14] [Server thread/INFO]: [BattleArena] Enabled module One in the Chamber v1.0.0
+[07:55:14] [Server thread/INFO]: [BattleArena] Enabled module Scoreboards v1.0.0
+[07:55:14] [Server thread/INFO]: [BattleArena] Enabled module Team Heads v1.0.0
+[07:55:14] [Server thread/INFO]: [BattleArena] Enabled module Arena Restoration v1.0.0
+[07:55:14] [Server thread/INFO]: [BattleArena] Enabled module Party v1.0.0
+[07:55:14] [Server thread/INFO]: [BattleArena] Enabled module Vault v1.0.0
+[07:55:14] [Server thread/INFO]: [BattleArena] Enabled module Team Colors v1.0.0
+[07:55:14] [Server thread/WARN]: [BattleArena] ----------------------------------------
+[07:55:14] [Server thread/WARN]: [BattleArena] BattleTracker not found! Arena statistics will not be saved.
+[07:55:14] [Server thread/WARN]: [BattleArena] You can download BattleTracker at: https://modrinth.com/project/battletracker.
+[07:55:14] [Server thread/WARN]: [BattleArena] ----------------------------------------
+[07:55:14] [Server thread/INFO]: [NameColor] Enabling NameColor v1.10.1
+[07:55:14] [Server thread/INFO]: [NameColor] NameColor version 1.10.1 enabled.
+[07:55:14] [Server thread/INFO]: [spark] Starting background profiler...
+[07:55:15] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:55:15] [Server thread/INFO]: [Geyser-Spigot] 
+[07:55:15] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.1-b833 (git-master-d0be6d9)
+[07:55:15] [Server thread/INFO]: [Geyser-Spigot] 
+[07:55:15] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:55:27] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 61218
+[07:55:27] [Server thread/INFO]: [Geyser-Spigot] Done (11.899s)! Run /geyser help for help!
+[07:55:27] [Server thread/INFO]: [BattleArena] Disabling module PlaceholderAPI for reason: PlaceholderAPI is required for the PlaceholderAPI integration module to work!
+[07:55:27] [Server thread/INFO]: [BattleArena] Disabling module Arena Restoration for reason: WorldEdit is required for the arena restoration module to work!
+[07:55:27] [Server thread/INFO]: [BattleArena] Disabling module Vault for reason: Vault is required for the Vault integration module to work!
+[07:55:28] [Server thread/INFO]: [BattleArena] Loaded arena: Skirmish.
+[07:55:28] [Server thread/INFO]: [BattleArena] Loaded arena: FFA.
+[07:55:28] [Server thread/INFO]: [BattleArena] Loaded arena: Battlegrounds.
+[07:55:28] [Server thread/INFO]: [BattleArena] Loaded arena: Deathmatch.
+[07:55:28] [Server thread/INFO]: [BattleArena] Loaded arena: Arena.
+[07:55:28] [Server thread/INFO]: [BattleArena] Loaded arena: Colosseum.
+[07:55:28] [Server thread/INFO]: [BattleArena] Scheduled event for arena FFA in PT35Mm.
+[07:55:28] [Server thread/INFO]: Done preparing level "world" (28.128s)
+[07:55:28] [Server thread/INFO]: Running delayed init tasks
+[07:55:28] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[07:55:28] [Craft Scheduler Thread - 10 - UltimateTeams/INFO]: UltimateTeams: Cleared all outstanding team invites!
+[07:55:28] [Server thread/INFO]: Done (86.278s)! For help, type "help"
+[07:55:28] [Server thread/INFO]: Timings Reset
+[07:55:28] [Craft Scheduler Thread - 9 - UltimateTeams/INFO]: Loaded 0 teams!
+[07:55:28] [Server thread/INFO]: [JEXT] Webserver started on port 9871
+[07:55:28] [Craft Scheduler Thread - 8 - BackpackPlus/INFO]: =============================[BackpackPlus]=============================
+[07:55:28] [Craft Scheduler Thread - 8 - BackpackPlus/INFO]: The plugin is up to date: (BETA 1.5.6)
+[07:55:28] [Craft Scheduler Thread - 8 - BackpackPlus/INFO]: =============================[BackpackPlus]=============================
+[07:55:28] [Server thread/INFO]: [voicechat] Loading plugins
+[07:55:28] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
+[07:55:28] [Server thread/INFO]: [voicechat] Initializing plugins
+[07:55:28] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
+[07:55:28] [Server thread/INFO]: [voicechat] Registering events for 'customdiscs'
+[07:55:28] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[07:55:28] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[07:55:33] [Craft Scheduler Thread - 4 - HuskHomes/INFO]: [HuskHomes] Registered 'after_load' hooks
+[07:56:15] [Server thread/INFO]: [Not Secure] [Server] ua esta?
+[07:56:23] [Server thread/INFO]: Stopping the server
+[07:56:23] [Server thread/INFO]: Stopping server
+[07:56:23] [Server thread/INFO]: [NameColor] Disabling NameColor v1.10.1
+[07:56:23] [Server thread/INFO]: [NameColor] Disabled.
+[07:56:23] [Server thread/INFO]: [BattleArena] Disabling BattleArena v4.0.2
+[07:56:23] [Server thread/INFO]: [xaero-map-spigot] Disabling xaero-map-spigot v1.0.0
+[07:56:23] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.29.20
+[07:56:23] [Server thread/INFO]: [DropHead] Disabling DropHead v2.0.0
+[07:56:23] [Server thread/INFO]: [UltimateTeams] Disabling UltimateTeams v3.3
+[07:56:23] [Server thread/INFO]: -------------------------------------------
+[07:56:23] [Server thread/INFO]: UltimateTeams: Plugin by: xF3d3
+[07:56:23] [Server thread/INFO]: UltimateTeams: Plugin Version: 3.3
+[07:56:23] [Server thread/INFO]: UltimateTeams: Has been shutdown successfully
+[07:56:23] [Server thread/INFO]: UltimateTeams: Goodbye!
+[07:56:23] [Server thread/INFO]: -------------------------------------------
+[07:56:23] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.3
+[07:56:23] [Server thread/INFO]: [Vanish] Disabling Vanish v0.1
+[07:56:23] [Server thread/INFO]: [FA] Disabling FoxAddition v1.2.0
+[07:56:23] [Server thread/INFO]: [FA] [FILES] FileWatcher is now enabled and ready to apply changes.
+[07:56:23] [Server thread/INFO]: [FA] [FILES] FileWatcher is now disabled.
+[07:56:23] [Server thread/INFO]: [JEXT] Disabling JukeboxExtendedReborn v2.1.9
+[07:56:23] [Server thread/INFO]: [JEXT] Webserver stopped
+[07:56:23] [Server thread/INFO]: [JEXT] Disabled Jukebox Extended Reborn, Mi Re Do!
+[07:56:23] [Server thread/INFO]: [BackpackPlus] Disabling BackpackPlus v1.5.6-beta
+[07:56:23] [Server thread/INFO]: [BackpackPlus] SQLite Successfully disconnected from the database
+[07:56:23] [Server thread/INFO]: [CustomDiscs] Disabling CustomDiscs v2.1.8
+[07:56:23] [Server thread/INFO]: [CustomDiscs Info] Enable use-oauth2 in config.yml and restart server to make YouTube discs work!
+[07:56:23] [Server thread/INFO]: [CustomDiscs Info] Successfully disabled CustomDiscs plugin
+[07:56:23] [Server thread/INFO]: [HuskHomes] Disabling HuskHomes v4.9.6
+[07:56:23] [Server thread/INFO]: [HuskHomes] Disabling HuskHomes v4.9.6...
+[07:56:23] [Server thread/INFO]: [HuskHomes] Successfully disabled HuskHomes v4.9.6
+[07:56:23] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[07:56:23] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[07:56:23] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[07:56:24] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[07:56:24] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.30
+[07:56:24] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[07:56:24] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[07:56:24] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[07:56:24] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[07:56:24] [Server thread/INFO]: Saving players
+[07:56:24] [Server thread/INFO]: Saving worlds
+[07:56:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:56:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:56:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:56:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:56:24] [WebSocketConnectReadThread-156/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[07:56:24] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.37s
+[07:56:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:56:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:56:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:56:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:56:24] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.22s
+[07:56:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:56:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:56:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:56:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:56:25] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.21s
+[07:56:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:56:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:56:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:56:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

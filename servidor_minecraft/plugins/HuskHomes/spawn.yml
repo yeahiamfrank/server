@@ -1,0 +1,12 @@
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃    Server /spawn location    ┃
+# ┃ Edit in-game using /setspawn ┃
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+x: 570.8063855394021
+y: 65.0
+z: 820.6839772071083
+yaw: 68.41015625
+pitch: 31.050094604492188
+world_name: world
+world_uuid: d52f6224-ac4f-47a4-b08b-8d05b3c9e28d

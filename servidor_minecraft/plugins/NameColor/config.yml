@@ -1,0 +1,166 @@
+#-------------------------#
+#        NameColor        #
+#     pedestriamc.com     #
+#     author: wiicart     #
+#-------------------------#
+# Sets the plugin's prefix.
+# Compatible with '&' color codes.
+prefix: '&8[&dNameColor&8] &f'
+
+# Modes of changing nicknames:
+#  - auto (default) - automatically chooses the best mode based on server setup.
+#  - server
+#  - essentials
+#
+mode: auto
+
+# Storage Mode:
+# Options:
+# - yml
+# - mysql
+# - mariadb
+storage: yml
+
+# IF USING ANY DATABASE OPTION, ENTER DATABASE INFO IN THE FOLLOWING SETTINGS:
+database:
+  host: localhost
+  port: 3306
+  database: db
+  user: username
+  password: password
+
+# +----- Nickname Settings -----+
+# Maximum nickname length, ignoring color codes.
+max-nickname-length: 16
+
+# Allow nicknames that are the username of another player?
+allow-username-nicknames: true
+
+# Notify players when their display name has changed?
+notify-players: true
+
+# Nickname prefix, inserted before nicknames:
+nick-prefix: ''
+
+# +----- Messages -----+
+# Note: prefix is used before all messages.
+# Compatible with '&' color codes.
+
+# NameColor help message:
+namecolor-help:
+- '&8+----[&dNameColor&8]----+'
+- '&fUsage: &7/namecolor <color> <option1> <option2>&f.'
+- '&fAny combination of the following options can be used:'
+- '&fbold, underline, italics, magic, strike.'
+- '&fIf changing another players name, add their username to the end.'
+- '&fRGB colors supported, formatted #<RGB>.'
+
+# Nickname help message:
+nickname-help:
+- '&8+----[&dNameColor&8]----+'
+- '&fUsage: &7/nick <nick> <username>&f.'
+- '&f<username> may be blank, RGB colors supported.'
+- '&fNote: Enter RGB codes as &#<RGB>.'
+
+# Whois help message:
+whois-help: '&fUsage: &7/whois <display name>'
+
+# Not enough args message:
+insufficient-args: '&fInsufficient arguments.'
+
+# Invalid player message:
+invalid-player: '&fCannot find that player!'
+
+# No permission message:
+no-perms: '&fYou don''t have permission!'
+
+# Player's name has been set message:
+# %display-name% will be replaced with
+# the user's new display name.
+name-set: '&fYour display name has been set to &f%display-name%&f.'
+
+# Other player's name changed message:
+# %display-name% will be replaced with
+# the subject's new display name.
+# %username% will be replaced with
+# the subject's username.
+name-set-other: '&f%username%''s display name has been set to %display-name%&f.'
+
+# Whois command message for valid player
+# %display-name% will be replaced with the
+# display name without colors.
+# %username% will be replaced with the proper username.
+whois-message: '&7%display-name%''s &fusername is &7%username%&f.'
+
+# Invalid args message for /namecolor:
+invalid-args-color: '&fInvalid arguments. Type &7/namecolor help &ffor usage.'
+
+# Invalid args message for /nick:
+invalid-args-nick: '&fInvalid arguments. Type &7/nick help &ffor usage.'
+
+# Invalid args message for /whois
+invalid-args-whois: '&fInvalid arguments. Type &7/whois help &ffor usage.'
+
+# Invalid command usage message for /namecolor:
+invalid-cmd-color: '&fInvalid command usage! Type &7/namecolor help &ffor usage.'
+
+# Invalid command usage message for /nick:
+invalid-cmd-nick: '&fInvalid command usage! Type &7/nick help &ffor usage.'
+
+# Invalid color in /namecolor
+invalid-color: '&fInvalid color!'
+
+# Nickname too long
+nick-too-long: '&fThat nickname is too long!'
+
+# Nickname that is the username of another player not allowed
+username-nick-prohibited: '&fYour nickname cannot be the same as the username of another
+  player.'
+
+# Prohibited nickname:
+nick-blacklist: '&fThat nickname is not allowed!'
+
+# No namecolor styles perms:
+no-perms-style: '&fYou don''t have permission to apply text styles to your name!'
+
+# No perms to use colors in nickname:
+# %display-name% will be replaced with
+# the subject's new display name.
+# %username% will be replaced with
+# the subject's username.
+no-nick-color: '&fYou don''t have permission to use colors in nicknames!  Your new
+  nickname is &f%display-name%.'
+
+# No perms to use colors in nickname:
+# THIS IS FOR WHEN SETTING ANOTHER PLAYER'S NICKNAME.
+# %display-name% will be replaced with
+# the subject's new display name.
+# %username% will be replaced with
+# the subject's username.
+no-nick-color-other: '&fYou don''t have permission to use colors in nicknames!  &7%username%&f''s
+  new nickname is &f%display-name%.'
+
+# Sent when a player attempts to use a command on another player without permission.
+no-perms-other: '&fYou don''t have permission to use that command on another player.'
+
+# Used for the WhoIs command when a player is not found.
+nick-unknown: '&fNo player found with nickname %display-name%&f.'
+
+# Sent when console attempts to run a command without specifying a player.
+define-player: Console must define a player to execute this command on.
+
+# Invalid color for gradient
+invalid-color-hex: '&fInvalid color &7(Proper format: #<HEX>).'
+
+# Invalid usage for gradient
+invalid-usage-gradient: '&fInvalid command usage. &7(Syntax: /gradient <color1> <color2>
+  <player (optional)>)'
+
+# No permission to use specific style
+style-specific: '&fYou don''t have permission to use style &7%style%&f.'
+
+# No permission to use specific color
+color-specific: '&fYou don''t have permission to use &7%color%&f.'
+
+# Unknown style
+unknown-style: '&fUnknown style.'
