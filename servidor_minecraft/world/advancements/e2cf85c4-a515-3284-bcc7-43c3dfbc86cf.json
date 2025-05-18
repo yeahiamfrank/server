@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-18 00:28:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-05-18 00:09:46 +0000"
@@ -662,6 +668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-18 00:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-17 23:44:33 +0000"
@@ -741,7 +753,8 @@
       "minecraft:sparse_jungle": "2025-05-17 23:35:57 +0000",
       "minecraft:river": "2025-05-18 00:16:34 +0000",
       "minecraft:lush_caves": "2025-05-17 23:55:16 +0000",
-      "minecraft:bamboo_jungle": "2025-05-17 23:56:29 +0000"
+      "minecraft:bamboo_jungle": "2025-05-17 23:56:29 +0000",
+      "minecraft:plains": "2025-05-18 00:33:27 +0000"
     },
     "done": false
   },
