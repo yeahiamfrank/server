@@ -5,15 +5,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-18 00:46:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-18 00:31:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 00:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-05-18 00:40:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-18 00:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-18 00:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-18 00:42:43 +0000"
     },
     "done": true
   },
@@ -77,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-18 00:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-18 00:35:51 +0000"
@@ -113,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-18 00:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-18 00:28:54 +0000"
@@ -140,6 +182,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-18 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-18 00:40:20 +0000"
     },
     "done": true
   },
@@ -176,6 +224,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-05-18 00:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-18 00:46:32 +0000"
     },
     "done": true
   },
@@ -233,6 +287,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 00:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 00:44:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-18 00:26:50 +0000"
@@ -254,7 +320,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-05-18 00:28:35 +0000",
-      "minecraft:zombie": "2025-05-18 00:29:31 +0000"
+      "minecraft:zombie": "2025-05-18 00:29:31 +0000",
+      "minecraft:creeper": "2025-05-18 00:49:06 +0000"
     },
     "done": false
   },
@@ -326,10 +393,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-05-18 00:45:18 +0000",
       "minecraft:sparse_jungle": "2025-05-18 00:25:38 +0000",
+      "minecraft:jungle": "2025-05-18 00:49:53 +0000",
+      "minecraft:river": "2025-05-18 00:49:24 +0000",
       "minecraft:bamboo_jungle": "2025-05-18 00:32:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-18 00:44:21 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
@@ -361,9 +437,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 00:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 00:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2025-05-18 00:29:40 +0000"
+      "rotten_flesh": "2025-05-18 00:29:40 +0000",
+      "melon_slice": "2025-05-18 00:46:43 +0000",
+      "porkchop": "2025-05-18 00:50:15 +0000"
     },
     "done": false
   },
@@ -385,15 +475,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 00:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-18 00:29:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 00:44:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-18 00:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 00:44:21 +0000"
     },
     "done": true
   },
@@ -451,9 +559,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 00:44:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-05-18 00:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 00:44:21 +0000"
     },
     "done": true
   },
