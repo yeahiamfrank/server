@@ -133,3 +133,31 @@
 [00:19:33] [Server thread/INFO]: Villager Villager['Nitwit'/21540, uuid='5c6d6d81-6059-453b-86da-09033080fbcc', l='ServerLevel[world]', x=-511.28, y=78.00, z=-961.37, cpos=[-32, -61], tl=191, v=true] died, message: 'Nitwit suffocated in a wall'
 [00:19:36] [Server thread/WARN]: .Meimeloii moved too quickly! -4.199714999999998,-1.0554699999999997,9.17007000000001
 [00:19:49] [Async Chat Thread - #46/INFO]: [Not Secure] <gato24teiko> recuerda david los aldeanos ya no son los de antes
+[00:20:04] [Async Chat Thread - #46/INFO]: [Not Secure] <gato24teiko> alto de los intercambios XD
+[00:20:28] [Server thread/INFO]: gato24teiko issued server command: /gamemode survival
+[00:20:28] [Server thread/INFO]: [gato24teiko: Set own game mode to Survival Mode]
+[00:21:00] [Async Chat Thread - #46/INFO]: [Not Secure] <gato24teiko> sera como la lapto de alguien que conozco con una lapto que por suerte corre el doom clasico
+[00:21:15] [Server thread/INFO]: gato24teiko issued server command: /gamemode creative
+[00:21:15] [Server thread/INFO]: [gato24teiko: Set own game mode to Creative Mode]
+[00:21:41] [Async Chat Thread - #46/INFO]: [Not Secure] <gato24teiko> la verdad esta buena la seed
+[00:22:49] [Async Chat Thread - #48/INFO]: [Not Secure] <gato24teiko> testeare cuando meta el plugin de homes
+[00:24:42] [Server thread/WARN]: .Meimeloii moved wrongly!
+[00:24:58] [Async Chat Thread - #50/INFO]: [Not Secure] <gato24teiko> que rico el overlay de discord
+[00:25:19] [User Authenticator #4/INFO]: UUID of player Bryangvv123 is 31a185c6-7e00-3f34-a297-aaedc3a72e6d
+[00:25:36] [Async Chat Thread - #51/INFO]: [Not Secure] <gato24teiko> a
+[00:25:37] [Server thread/INFO]: Bryangvv123 joined the game
+[00:25:37] [Server thread/INFO]: Bryangvv123[/127.173.86.117:34013] logged in with entity id 24817 at ([world]-3.5, 63.0, -158.5)
+[00:25:40] [Async Chat Thread - #50/INFO]: [Not Secure] <gato24teiko> XD
+[00:26:19] [Async Chat Thread - #50/INFO]: [Not Secure] <gato24teiko> imaginate que no te aguante el minecraft XD
+[00:26:50] [Server thread/INFO]: .Meimeloii was slain by Bryangvv123
+[00:26:52] [Async Chat Thread - #51/INFO]: [Not Secure] <gato24teiko> se la combea
+[00:27:09] [Async Chat Thread - #50/INFO]: [Not Secure] <gato24teiko> q
+[00:28:16] [Server thread/INFO]: OndaLil has made the advancement [Sweet Dreams]
+[00:28:17] [Async Chat Thread - #52/INFO]: [Not Secure] <gato24teiko> oh no
+[00:28:35] [Server thread/INFO]: Bryangvv123 has made the advancement [Monster Hunter]
+[00:28:43] [Async Chat Thread - #52/INFO]: [Not Secure] <gato24teiko> yo se lo que se siente jugar al genshi
+[00:28:49] [Server thread/INFO]: .Meimeloii has made the advancement [Sweet Dreams]
+[00:29:05] [Async Chat Thread - #53/INFO]: [Not Secure] <gato24teiko> demasiado espacio
+[00:29:59] [Server thread/INFO]: Bryangvv123 was slain by .Meimeloii
+[00:30:18] [Server thread/INFO]: gato24teiko issued server command: /gamerule playersSleepingPercentage 1
+[00:30:18] [Server thread/INFO]: [gato24teiko: Gamerule playersSleepingPercentage is now set to: 1]

@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-05-18 00:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-17 23:41:13 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-17 23:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-18 00:18:29 +0000"
     },
     "done": true
   },
@@ -521,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-18 00:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-05-18 00:09:46 +0000"
@@ -718,8 +736,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-05-18 00:19:43 +0000",
       "minecraft:desert": "2025-05-18 00:09:04 +0000",
       "minecraft:sparse_jungle": "2025-05-17 23:35:57 +0000",
+      "minecraft:river": "2025-05-18 00:16:34 +0000",
       "minecraft:lush_caves": "2025-05-17 23:55:16 +0000",
       "minecraft:bamboo_jungle": "2025-05-17 23:56:29 +0000"
     },
@@ -785,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-18 00:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-17 23:46:29 +0000"
@@ -803,14 +829,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-18 00:21:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-17 23:47:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 00:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-05-18 00:21:31 +0000",
       "rotten_flesh": "2025-05-18 00:02:51 +0000",
       "rabbit": "2025-05-18 00:09:49 +0000",
       "beef": "2025-05-17 23:41:37 +0000",
@@ -843,15 +882,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-18 00:21:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-05-17 23:41:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 00:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-05-18 00:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-18 00:20:32 +0000"
     },
     "done": true
   },
